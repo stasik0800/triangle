@@ -5,20 +5,3 @@
 * Notes: first row must be a single star, the width that was given to you by the user should be an even positive number, 
   and the height must be greater then one.
   
-
-Example:
-	if given height: 3, width: 2
-
-result:
-	   *
-	  ***
-	 *****
-   
-Example :
- if given height : 4 width 6
- 
- result :
-         *
-      *******
-   *************
-*******************
