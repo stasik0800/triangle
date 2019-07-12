@@ -6,3 +6,19 @@
   and the height must be greater then one.
   
 
+Example:
+	if given height: 3, width: 2
+
+result:
+	   *
+	  ***
+	 *****
+   
+Example :
+ if given height : 4 width 6
+ 
+ result :
+         *
+      *******
+   *************
+*******************
